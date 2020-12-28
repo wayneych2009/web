@@ -4,4 +4,7 @@ made some updates
 
 last updates made on Github before rebase
 
-##conflicts
+
+repository purpose
+
+conflict fixing
