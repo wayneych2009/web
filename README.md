@@ -2,6 +2,6 @@
 
 made some updates
 
-updates made on Github before rebase
+last updates made on Github before rebase
 
 
