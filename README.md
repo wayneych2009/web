@@ -2,9 +2,6 @@
 
 made some updates
 
-
-
-Edited on updatereadme branch
-updated locally
+updates made on Github before rebase
 
 
