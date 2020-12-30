@@ -8,3 +8,8 @@ last updates made on Github before rebase
 repository purpose
 
 conflict fixing
+
+
+##Purpose
+
+provide examples on how to use git and github together
