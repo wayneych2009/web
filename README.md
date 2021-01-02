@@ -13,3 +13,7 @@ conflict fixing
 ##Purpose
 
 provide examples on how to use git and github together
+
+## Getting started
+
+add getting started section
